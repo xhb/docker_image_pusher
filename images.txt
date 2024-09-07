@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-frooodle/s-pdf
+docker.getoutline.com/outlinewiki/outline:latest
+
